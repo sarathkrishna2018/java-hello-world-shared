@@ -1,2 +1,2 @@
-@Library('pipeline-library-demo')_
+@Library('pipeline-library-demo')
 buildMavenApp{}
